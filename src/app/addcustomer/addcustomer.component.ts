@@ -19,7 +19,6 @@ export class AddcustomerComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    ks=
     this.showcustomers();
     this.addcustomer = new FormGroup({
 
